@@ -28,3 +28,7 @@
 * `Bloopark systems <https://www.bloopark.de/>`_:
 
   * Achraf Mhadhbi <machraf@bloopark.de>
+
+*  `Aion Tech <https://aiontech.company/>`__:
+
+  *  Simone Rubino <simone.rubino@aion-tech.it>
